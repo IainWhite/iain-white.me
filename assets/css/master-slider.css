@@ -1,0 +1,32 @@
+
+/*--------------------------------------------------
+	[38. Master Slider]
+----------------------------------------------------*/
+.ms-promo-info {
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 1.5;
+    text-transform: uppercase;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.ms-promo-info-in {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.ms-promo-sub {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.4;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.ms-promo-sub-in {
+    font-size: 15px;
+}
+
+.ms-img-bordered {
+    background: #fff;
+    padding: 7px;
+}

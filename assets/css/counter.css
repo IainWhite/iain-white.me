@@ -1,0 +1,54 @@
+
+/*--------------------------------------------------
+  [43. Counter]
+----------------------------------------------------*/
+.counters {
+    color: #555;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    .counters {
+        margin-bottom: 30px;
+    }
+    .counters:last-child {
+        margin-bottom: inherit;
+    }
+}
+
+.counters span {
+    font-size: 35px;
+}
+
+.counters span.counter-icon {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.counters span.counter-icon i {
+    color: #fff;
+    padding: 16px;
+    min-width: 65px;
+    font-size: 30px;
+    position: relative;
+    background: #3498db;
+}
+
+.counters span.counter-icon i:after {
+    width: 0;
+    height: 0;
+    left: 38%;
+    content: " ";
+    bottom: -7px;
+    display: block;
+    position: absolute;
+    border-top: 7px solid #3498db;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-left-style: inset; /*FF fixes*/
+    border-right-style: inset; /*FF fixes*/
+}
+
+.counters:hover span.counter-icon i {
+    border-color: #000;
+}

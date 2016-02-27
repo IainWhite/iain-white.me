@@ -1,0 +1,101 @@
+
+/*--------------------------------------------------
+	[46. Bootstrap Carousels]
+----------------------------------------------------*/
+/* Bootstrap Carousel v1
+------------------------------------*/
+.carousel-v1 .carousel-caption {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 7px 15px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.carousel-v1 .carousel-caption p {
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.carousel-v1 .carousel-arrow a.carousel-control {
+    opacity: 1;
+    font-size:30px;
+    height:inherit;
+    width: inherit;
+    background: none;
+    text-shadow: none;
+    position: inherit;
+}
+
+.carousel-v1 .carousel-arrow a i {
+    top: 50%;
+    opacity: 0.6;
+    background: #000;
+    margin-top: -18px;
+    padding: 2px 12px;
+    position: absolute;
+}
+.carousel-v1 .carousel-arrow a i:hover {
+    opacity: 0.8;
+}
+
+.carousel-v1 .carousel-arrow a.left i {
+    left: 0;
+}
+.carousel-v1 .carousel-arrow a.right i {
+    right: 0;
+}
+
+/* Bootstrap Carousel v2
+------------------------------------*/
+.carousel-v2 .carousel-control,
+.carousel-v2 .carousel-control:hover {
+    opacity: 1;
+    text-shadow: none;
+}
+
+.carousel-v2 .carousel-control.left,
+.carousel-v2 .carousel-control.right {
+    top: 50%;
+    z-index: 5;
+    color: #eee;
+    width: 45px;
+    height: 45px;
+    font-size: 30px;
+    margin-top: -22px;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid #eee;
+    background: rgba(0,0,0,0.1);
+}
+
+.carousel-v2 .carousel-control:hover {
+    background: rgba(0,0,0,0.3);
+    transition: all 0.4s ease-in-out;
+}
+
+.carousel-v2 .carousel-control.left {
+    left: 20px;
+}
+
+.carousel-v2 .carousel-control.right {
+    right: 20px;
+}
+
+.carousel-v2 .carousel-control .arrow-prev,
+.carousel-v2 .carousel-control .arrow-next {
+    top: -5px;
+    position: relative;
+}
+
+.carousel-v2 .carousel-control .arrow-next {
+    right: -2px;
+}
+
+
+@media (min-width: 768px) {
+    .carousel-indicators {
+        bottom: 10px;
+    }
+}

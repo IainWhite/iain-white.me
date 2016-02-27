@@ -1,0 +1,25 @@
+/*--------------------------------------------------
+	[23. Team Social]
+----------------------------------------------------*/
+.social-icons-v1 i {
+    color: #555;
+    width: 33px;
+    height: 33px;
+    padding: 9px;
+    font-size: 14px;
+    text-align: center;
+    background: #f7f7f7;
+    display: inline-block;
+}
+
+.social-icons-v1 i:hover {
+    color: #fff;
+    background: #3498db;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.social-icons-v1--dark i {
+    color: #fff;
+    background: #333;
+}

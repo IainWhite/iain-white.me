@@ -1,0 +1,25 @@
+
+/*--------------------------------------------------
+  [37. Parallax Slider (Main)]
+----------------------------------------------------*/
+.slider-inner .da-slider {
+    box-shadow: none;
+    border-bottom: 2px solid #ddd;
+}
+
+.slider-inner .da-dots {
+    z-index: 10;
+}
+
+@media (max-width: 450px) {
+    .da-slide p {
+        display:none;
+    }
+}
+
+@media (max-width: 900px) {
+    /*Slider Parallax*/
+    .da-slide .da-img {
+        display:none;
+    }
+}

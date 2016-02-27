@@ -1,0 +1,22 @@
+/*--------------------------------------------------
+  [42. Pie Chart]
+----------------------------------------------------*/
+.pie-progress-charts .inner-pchart {
+    text-align: center;
+}
+
+.pie-progress-charts .circle {
+    color: #555;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+.pie-progress-charts .circle-title {
+    font-size: 22px;
+}
+
+@media (max-width: 767px) {
+    .pie-progress-charts .inner-pchart {
+        margin-bottom: 40px;
+    }
+}

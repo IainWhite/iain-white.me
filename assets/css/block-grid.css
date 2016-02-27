@@ -1,0 +1,113 @@
+
+/*--------------------------------------------------
+	[4. Block Grid]
+----------------------------------------------------*/
+/*Block Grid v1
+------------------------------------*/
+.block-grid-v1 {
+    background: #fff;
+    padding: 15px 15px 5px;
+    border-bottom: solid 2px #eee;
+    transition: all 0.4s ease-in-out;
+}
+
+.block-grid-v1:hover {
+    border-color: #3498db;
+}
+
+.block-grid-v1 img {
+    margin-bottom: 10px;
+}
+
+.block-grid-v1 img.block-grid-v1-img {
+    width: 35px;
+    height: 35px;
+    margin-top: 8px;
+}
+
+.block-grid-v1.content-boxes-v1 img.pull-left {
+    float: inherit !important;
+}
+
+.block-grid-v1 h3 a {
+    font-size: 22px;
+    font-weight: 200;
+    margin-right: 10px;
+}
+
+.block-grid-v1.content-boxes-v1 h3 {
+    margin-bottom: 0;
+}
+
+.block-grid-v1.content-boxes-v1 h3 a {
+    color: #555;
+}
+
+/*Star Vote*/
+.block-grid-v1 .star-vote {
+    padding: 0;
+    margin-bottom: 10px;
+    vertical-align: middle;
+}
+
+.block-grid-v1 .star-vote li {
+    padding: 0;
+    font-size: 11px;
+    display: inline-block;
+}
+
+/*Additional Info*/
+.block-grid-v1-add-info {
+    margin: 0;
+    padding-top: 15px;
+    border-top: solid 1px #eee;
+}
+
+.block-grid-v1-add-info li {
+    padding: 0;
+    margin-right: 3px;
+    margin-bottom: 10px;
+}
+
+.block-grid-v1-add-info li a {
+    font-size: 11px;
+    padding: 4px 7px;
+    text-decoration: none;
+    border: solid 2px #eee;
+    border-radius: 3px !important;
+}
+
+/*Block Grid v2
+------------------------------------*/
+.block-grid-v2 {
+    padding: 0;
+}
+
+.block-grid-v2 li {
+    list-style: none;
+    position: relative;
+    -webkit-backface-visibility: hidden; /*For Chrome*/
+}
+
+.block-grid-v2-info {
+    padding: 15px;
+    text-align: center;
+    background: #f9f9f9;
+    border-bottom: solid 3px #eee;
+    transition: all 0.4s ease-in-out;
+}
+
+.block-grid-v2 li:hover .block-grid-v2-info {
+    border-color: #3498db;
+}
+
+.block-grid-v2-info h3 {
+    font-size: 22px;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+.block-grid-v2-info .star-vote li {
+    padding: 2px;
+    font-size: 16px;
+}

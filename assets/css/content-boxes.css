@@ -1,0 +1,190 @@
+
+/*--------------------------------------------------
+	[52. Content Boxes]
+----------------------------------------------------*/
+/*Content Boxes v1*/
+.content-boxes-v1 {
+    text-align: center;
+}
+
+.content-boxes-v1 span {
+    display: block;
+    margin-top: 5px;
+}
+
+/*Content Boxes v2*/
+.content-boxes-v2-o span {
+    display: block;
+    overflow: hidden;
+}
+
+.content-boxes-v2-o small {
+    display: block;
+    line-height: 1.6;
+}
+
+.content-boxes-v2-o .icon-md + span {
+    margin-top: 9px;
+}
+
+.content-boxes-v2-o .icon-lg + span {
+    margin-top: 11px;
+}
+
+.content-boxes-v2-o .icon-custom {
+    float: left;
+    margin-top: 3px;
+    margin-right: 15px;
+}
+
+@media (max-width: 992px) {
+    .content-boxes-v2,
+    .content-boxes-v2 .text-justify {
+        text-align: center;
+    }
+
+    .content-boxes-v2 span {
+        display: block;
+        margin-top: 5px;
+    }
+}
+
+/*Content Boxes v3*/
+.content-boxes-v3 i.icon-custom {
+    top: 8px;
+    float: left;
+    position: relative;
+}
+
+.content-boxes-v3 .content-boxes-in-v3 {
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+.content-boxes-v3 .content-boxes-in-v3 h3 {
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 3px;
+    text-transform: capitalize;
+}
+
+.content-boxes-v3 .content-boxes-in-v3 h3 a {
+    color: #555;
+}
+
+/*Content Boxes Right v3*/
+.content-boxes-v3.content-boxes-v3-right {
+    text-align: right;
+}
+
+.content-boxes-v3.content-boxes-v3-right i.icon-custom {
+    float: right;
+}
+
+@media (max-width: 768px){
+    .content-boxes-v3.content-boxes-v3-right {
+        text-align: inherit;
+    }
+
+    .content-boxes-v3.content-boxes-v3-right i.icon-custom {
+        float: left;
+        margin-left: 0;
+    }
+}
+
+/*Content Boxes v4*/
+.content-boxes-v4 h2 {
+    color: #555;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.content-boxes-v4 a {
+    color: #777;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.content-boxes-v4 i {
+    width: 25px;
+    color: #3498db;
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.content-boxes-in-v4 {
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+.content-boxes-v4-sm i {
+    font-size: 26px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+/*Content Boxes v5*/
+.content-boxes-v5 i {
+    float: left;
+    color: #999;
+    width: 50px;
+    height: 50px;
+    padding: 11px;
+    font-size: 22px;
+    background: #eee;
+    line-height: 28px;
+    text-align: center;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.content-boxes-v5:hover i {
+    color: #fff;
+    background: #3498db;
+}
+
+/*Content Boxes v6*/
+.content-boxes-v6 {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.content-boxes-v6 i {
+    color: #fff;
+    width: 90px;
+    height: 90px;
+    padding: 30px;
+    font-size: 30px;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    background: #dedede;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+.content-boxes-v6 i:after {
+    top: -8px;
+    left: -8px;
+    right: -8px;
+    bottom: -8px;
+    content: " ";
+    position: absolute;
+    border: 1px solid #dedede;
+    border-radius: 50% !important;
+}
+
+.content-boxes-v6:hover i,
+.content-boxes-v6:hover i:after {
+    transition: all 0.3s ease-in-out;
+}
+
+.content-boxes-v6:hover i {
+    background: #3498db;
+}
+
+.content-boxes-v6:hover i:after {
+    border-color: #3498db;
+}

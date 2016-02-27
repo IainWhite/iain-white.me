@@ -1,0 +1,562 @@
+
+/*--------------------------------------------------
+	[8. Team]
+----------------------------------------------------*/
+/* Team v1
+------------------------------------*/
+.team-v1 ul {
+    position: relative;
+}
+
+/*Team Image*/
+.team-v1 li > .team-img {
+    position: relative;
+}
+
+.team-v1 li > .team-img:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    background: transparent;
+    transition: all 0.4s ease-in-out;
+}
+
+.team-v1 li:hover > .team-img:after {
+    background: rgba(0,0,0,0.5);
+}
+
+/*Team Socials*/
+.team-v1 li > .team-img ul {
+    left: 0;
+    top: 45%;
+    z-index: 1;
+    padding: 0;
+    width: 100%;
+    height: 36px;
+    list-style: none;
+    margin-top: -18px;
+    text-align: center;
+    visibility: hidden;
+    position: absolute;
+    transition: all 0.2s ease-in-out;
+}
+
+.team-v1 li:hover > .team-img ul {
+    top: 50%;
+    visibility: visible;
+}
+
+.team-v1 li > .team-img ul li {
+    margin: 0 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.team-v1 li > .team-img li i {
+    color: #eee;
+    border-width: 2px;
+    border-color: #eee;
+    transition: all 0.1s ease-in-out;
+}
+
+.team-v1 li > .team-img li i.fa-twitter:hover {
+    color: #fff;
+    background: #3498db;
+    border-color: #3498db;
+}
+
+.team-v1 li > .team-img li i.fa-facebook:hover {
+    color: #fff;
+    background: #4765a0;
+    border-color: #4765a0;
+}
+
+.team-v1 li > .team-img li i.fa-google-plus:hover {
+    color: #fff;
+    background: #e74c3c;
+    border-color: #e74c3c;
+}
+
+/*Team Discription*/
+.team-v1 li > h3 {
+    color: #000;
+    font-size: 18px;
+    line-height: 20px;
+    margin: 15px 0 7px;
+    text-transform: uppercase;
+}
+
+.team-v1 li > h4 {
+    color: #999;
+    font-size: 11px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.team-v1 li > p {
+    margin: 20px 0;
+    position: relative;
+}
+
+.team-v1 li > p:before {
+    left: 0;
+    top: -10px;
+    height: 1px;
+    width: 40px;
+    content: " ";
+    position: absolute;
+    background: #bbb;
+    transition: all 0.4s ease-in-out;
+}
+
+.team-v1 li:hover > p:before {
+    width: 100%;
+    background: #3498db;
+}
+
+/*Team v2
+------------------------------------*/
+.team-v2 {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.team-v2 img {
+    width: 100%;
+}
+
+.team-v2 .inner-team {
+    padding: 20px;
+    background: #fff;
+    text-align: center;
+}
+
+.team-v2 .inner-team h3 {
+    margin: 0;
+}
+
+.team-v2 .inner-team small {
+    display: block;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.team-v2 .inner-team p {
+    font-size: 13px;
+}
+
+.team-v2 .inner-team hr {
+    margin: 10px 0 15px;
+}
+
+/*Team-Social (Temporary)*/
+.team-social {
+    margin-bottom: 0;
+}
+
+.team-social li {
+    padding: 0 2px;
+}
+
+.team-social li a {
+    font-size: 14px;
+    padding: 6px 4px;
+    text-align: center;
+    border-radius: 50% !important;
+}
+
+.team-social li i {
+    min-width: 20px;
+}
+
+.team-social li a.fb {
+    color: #4862a3;
+    border: 1px solid #4862a3;
+}
+
+.team-social li a.tw {
+    color: #159ceb;
+    border: 1px solid #159ceb;
+}
+
+.team-social li a.gp {
+    color: #dc4a38;
+    border: 1px solid #dc4a38;
+}
+
+.team-social li a:hover {
+    text-decoration: none;
+}
+
+.team-social li a.fb:hover {
+    color: #fff;
+    background: #4862a3;
+}
+
+.team-social li a.tw:hover {
+    color: #fff;
+    background: #159ceb;
+}
+
+.team-social li a.gp:hover {
+    color: #fff;
+    background: #dc4a38;
+}
+
+/*Team v3
+------------------------------------*/
+.team-v3 .team-img {
+    position: relative;
+}
+
+.team-v3 .team-img:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    transition: all 0.4s ease-in-out;
+}
+
+.team-v3 .team-img:hover:after {
+    background: rgba(0,0,0,0.5);
+    transition: all 0.2s ease-in-out;
+}
+
+.team-v3 .team-img > img {
+    width: 100%;
+}
+
+/*Team Hover Gradient*/
+.team-v3 .team-hover {
+    left: 0;
+    top: 60%;
+    z-index: 1;
+    padding: 0;
+    width: 100%;
+    padding: 20px;
+    list-style: none;
+    margin-top: -90px;
+    text-align: center;
+    visibility: hidden;
+    position: absolute;
+    transition: all 0.2s ease-in-out;
+}
+
+.team-v3 .team-img:hover .team-hover {
+    top: 50%;
+    visibility: visible;
+}
+
+.team-v3 .team-hover span,
+.team-v3 .team-hover small {
+    color: #fff;
+    display: block;
+}
+
+.team-v3 .team-hover span {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.team-v3 .team-hover small {
+    font-size: 13px;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+.team-v3 .team-hover p {
+    color: #fff;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+/*Team Social*/
+.team-v3 .team-hover .team-social-v3 i {
+    color: #fff;
+    width: 33px;
+    height: 33px;
+    padding: 9px;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #fff;
+}
+
+.team-v3 .team-hover .team-social-v3 i:hover {
+    color: #666;
+    background: #fff;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/*Team v4
+------------------------------------*/
+.team-v4 {
+    text-align: center;
+}
+
+.team-v4 img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.team-v4 span {
+    color: #333;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.team-v4 small {
+    color: #999;
+    display: block;
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.team-v4 .team-social-v4 a {
+    color: #555;
+    font-size: 16px;
+}
+
+.team-v4 .team-social-v4 a:hover {
+    color: #3498db;
+    text-decoration: none;
+}
+
+/*Team v5
+------------------------------------*/
+.team-v5 {
+    text-align: center;
+}
+
+.team-v5 span {
+    color: #555;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.team-v5 small {
+    display: block;
+    color: #3498db;
+    font-size: 13px;
+    font-style: italic;
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.team-v5 small:after {
+    left: 50%;
+    top: 30px;
+    height: 1px;
+    width: 30px;
+    content: " ";
+    background: #777;
+    margin-left: -15px;
+    position: absolute;
+}
+
+.team-v5 .team-img {
+    position: relative;
+}
+
+.team-v5 .team-img:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    transition: all 0.4s ease-in-out;
+}
+
+.team-v5 .team-img:hover:after {
+    background: rgba(0,0,0,0.5);
+    transition: all 0.2s ease-in-out;
+}
+
+.team-v5 .team-img > img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/*Team Hover Gradient*/
+.team-v5 .team-hover {
+    left: 0;
+    top: 60%;
+    z-index: 1;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    margin-top: -16px;
+    text-align: center;
+    visibility: hidden;
+    position: absolute;
+    transition: all 0.2s ease-in-out;
+}
+
+.team-v5 .team-img:hover .team-hover {
+    top: 50%;
+    visibility: visible;
+}
+
+/*Social Network-*/
+.team-v5 .team-hover .team-social-v5 i {
+    color: #fff;
+    width: 33px;
+    height: 33px;
+    padding: 9px;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #fff;
+}
+
+.team-v5 .team-hover .team-social-v5 i:hover {
+    color: #666;
+    background: #fff;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/*Team v6
+------------------------------------*/
+.team-v6 {
+    text-align: center;
+}
+
+.team-v6 img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.team-v6 span {
+    color: #777;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.team-v6 small {
+    display: block;
+    color: #3498db;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+/*Team v7
+------------------------------------*/
+.team-v7 .team-v7-in {
+    padding: 0 50px;
+}
+
+.team-v7 .team-v7-name {
+    color: #555;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.team-v7 .team-v7-position {
+    display: block;
+    color: #3498db;
+    font-style: normal;
+    margin-bottom: 15px;
+}
+
+.team-v7 p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+/*Team Space*/
+.team-v7 .team-v7-name {
+    margin-top: 60px;
+}
+
+.team-v7 .social-icons-v1 {
+    margin-bottom: 60px;
+}
+
+/*Team Image*/
+.team-v7 .team-v7-img {
+    position: relative;
+}
+
+.team-v7 .team-v7-img:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    background: rgba(0,0,0,0.1);
+}
+
+/*Team Info*/
+.team-v7 .team-arrow-right,
+.team-v7 .team-arrow-left {
+    position: relative;
+}
+
+.team-v7 .team-arrow-left:before,
+.team-v7 .team-arrow-right:before {
+    width: 0;
+    height: 0;
+    top: 50%;
+    margin-top: -25px;
+    z-index: 2;
+    content: " ";
+    position: absolute;
+    border-style: solid;
+}
+
+.team-v7 .team-arrow-right:before {
+    right: -25px;
+    border-width: 20px 0 20px 25px;
+    border-color: transparent transparent transparent #fff;
+}
+
+.team-v7 .team-arrow-left:before {
+    left: -25px;
+    border-width: 20px 25px 20px 0;
+    border-color: transparent #fff transparent transparent;
+}
+
+/*Team Info Media Queries*/
+@media (max-width: 991px) {
+    /*Team Arrows*/
+    .team-v7 .team-arrow-left:before,
+    .team-v7 .team-arrow-right:before {
+        top: auto;
+        left: 70px;
+        bottom: -25px;
+        border-width: 25px 20px 0 20px;
+        border-color: #fff transparent transparent transparent;
+    }
+
+    .team-v7 .team-arrow-left:before,
+    .team-v7 .team-arrow-right:before {
+        left: 70px;
+        bottom: -25px;
+        border-width: 25px 20px 0 20px;
+    }
+
+    /*Equal Height Columns*/
+    .team-v7 .equal-height-column {
+        height: auto !important;
+    }
+}

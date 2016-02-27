@@ -1,0 +1,96 @@
+
+/*--------------------------------------------------
+	[54. Tags]
+----------------------------------------------------*/
+/*Tags v1
+------------------------------------*/
+.tags-v1 li {
+    margin: 0;
+    padding: 0;
+}
+
+.tags-v1 li a {
+    font-size: 13px;
+    padding: 4px 8px;
+    line-height: 32px;
+    border: solid 2px #eee;
+    border-radius: 20px !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.tags-v1 li a:hover {
+    text-decoration: none;
+    border-color: #e0e0e0;
+}
+
+/*Tags v2
+------------------------------------*/
+.tags-v2 li {
+    padding: 7px 0 7px 4px;
+}
+
+.tags-v2 li a {
+    color: #555;
+    font-size: 13px;
+    padding: 5px 10px;
+    border: solid 1px #bbb;
+}
+
+.tags-v2 li a:hover {
+    color: #fff;
+    background: #555;
+    border-color: #555;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/*Tags v3
+------------------------------------*/
+.tags-v3 li {
+    padding: 7px 0 7px 4px;
+}
+
+.tags-v3 li a {
+    color: #555;
+    font-size: 12px;
+    padding: 4px 12px;
+    border: solid 1px #eee;
+}
+
+.tags-v3 li a:hover {
+    color: #fff;
+    background: #222;
+    border-color: #222;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/*Tags v4
+------------------------------------*/
+.tags-v4 {
+    padding-left: 0;
+    list-style: none;
+}
+
+.tags-v4 li {
+    padding: 3px 2px;
+    line-height: 28px;
+    display: inline-block;
+}
+
+.tags-v4 a {
+    color: #bbb;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 4px 10px;
+    border: 1px solid #bbb;
+}
+
+.tags-v4 a:hover {
+    color: #fff;
+    background: #e74c3c;
+    border-color: #e74c3c;
+    text-decoration: none;
+    transition: all 0.25s,
+    transform 0.25s;
+}

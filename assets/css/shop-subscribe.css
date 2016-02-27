@@ -1,0 +1,59 @@
+
+/*--------------------------------------------------
+  [36. Shop Subscribe]
+----------------------------------------------------*/
+.shop-subscribe {
+    padding: 25px 0;
+}
+
+.shop-subscribe h2 {
+    margin: 0;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+/*Input Form Control*/
+.shop-subscribe input {
+    border-color: #fff;
+    border-right: none;
+    background: transparent;
+}
+
+.shop-subscribe .form-control {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.shop-subscribe .form-control:focus {
+    box-shadow: none;
+    border-color: #fff;
+}
+
+.shop-subscribe .form-control::-moz-placeholder {
+    color: #fff;
+}
+.shop-subscribe .form-control:-ms-input-placeholder {
+    color: #fff;
+}
+.shop-subscribe .form-control::-webkit-input-placeholder {
+    color: #fff;
+}
+
+.shop-subscribe .input-group-btn {
+    border-color: #fff;
+    background: transparent;
+}
+
+.shop-subscribe .input-group-btn .btn {
+    border: 1px solid #fff;
+    background: transparent;
+}
+
+.shop-subscribe .input-group-btn i {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 200;
+}

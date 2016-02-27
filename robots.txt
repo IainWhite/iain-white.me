@@ -1,0 +1,10 @@
+# Robots.txt
+# Bans search robots from default directories
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /members/
+
+Sitemap: http://www.iain-white.me/sitemap.xml
+

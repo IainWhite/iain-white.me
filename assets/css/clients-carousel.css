@@ -1,0 +1,38 @@
+
+/*--------------------------------------------------
+  [41. Clients Carousel]
+----------------------------------------------------*/
+.clients {
+    border: 0;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow:none !important;
+    margin-bottom: 0 !important;
+}
+.clients li {
+    overflow: hidden;
+    margin-left: 1px;
+    position: relative;
+    background: #fafafa;
+}
+.clients li:hover {
+    background: #f6f6f6;
+}
+.clients li img.color-img {
+    top: 0;
+    left: 0;
+    display: none;
+    position: absolute;
+}
+.clients li:hover img.color-img {
+    display: block;
+}
+.clients li img {
+    filter: gray; /* IE6-9 */
+    float: none !important;
+    margin: 0 auto !important;
+}
+.clients li img:hover {
+    filter: none;
+}

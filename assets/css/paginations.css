@@ -1,0 +1,130 @@
+
+/*--------------------------------------------------
+	[49. Paginations]
+----------------------------------------------------*/
+
+/*Pegination*/
+.pagination > li:first-child > a,
+.pagination > li:first-child > span,
+.pagination-lg > li:first-child > a,
+.pagination-lg > li:first-child > span,
+.pagination-lg > li:last-child > a,
+.pagination-lg > li:last-child > span,
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+    border-radius: 0;
+}
+
+.pagination li a {
+    color: #777;
+    padding: 5px 15px;
+}
+
+.pagination li a:hover {
+    color: #fff;
+    background: #2980b9;
+    border-color: #2980b9;
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    border-color: #3498db;
+    background-color: #3498db;
+}
+
+/*Pagination Without Space*/
+.pagination-no-space .pagination {
+    margin: 0;
+}
+
+/*--------------------------------------------------
+	[50. Pagers]
+----------------------------------------------------*/
+/*Pager*/
+.pager li > a,
+.pager li > span {
+    border-radius: 0;
+}
+
+.pager li > a:hover,
+.pager li > a:focus {
+    color: #fff;
+    background: #2980b9;
+    border-color: #2980b9;
+}
+
+/*Pager v2 and v3
+------------------------------------*/
+.pager.pager-v2 li > a {
+    border: none;
+}
+
+.pager.pager-v2 li > a,
+.pager.pager-v3 li > a {
+    transition: all 0.1s ease-in-out;
+}
+
+.pager.pager-v2 li > a:hover,
+.pager.pager-v2 li > a:focus,
+.pager.pager-v3 li > a:hover,
+.pager.pager-v3 li > a:focus {
+    color: #fff;
+    background: #3498db;
+}
+
+/*Pager Amount*/
+.pager.pager-v2 li.page-amount,
+.pager.pager-v3 li.page-amount {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.pager.pager-v2 li.page-amount,
+.pager.pager-v2 li.page-amount:hover,
+.pager.pager-v2 li.page-amount:focus,
+.pager.pager-v3 li.page-amount,
+.pager.pager-v3 li.page-amount:hover,
+.pager.pager-v3 li.page-amount:focus {
+    top: 7px;
+    color: #777;
+    position: relative;
+}
+
+/*Pager Size*/
+.pager.pager-v2.pager-md li a,
+.pager.pager-v3.pager-md li a {
+    font-size: 16px;
+    padding: 8px 18px;
+}
+
+/*Pager v4
+------------------------------------*/
+.pager.pager-v4 li > a {
+    line-height: normal;
+    transition: all 0.1s ease-in-out;
+}
+
+.pager.pager-v4 li > a:hover,
+.pager.pager-v4 li > a:focus {
+    color: #fff;
+    background: #222;
+    border-color: #222;
+}
+
+/*Pager Amount*/
+.pager.pager-v4 li.page-amount {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.pager.pager-v4 li.page-amount,
+.pager.pager-v4 li.page-amount:hover,
+.pager.pager-v4 li.page-amount:focus {
+    top: 7px;
+    color: #777;
+    position: relative;
+}

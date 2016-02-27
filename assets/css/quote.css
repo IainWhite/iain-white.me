@@ -1,0 +1,69 @@
+
+/*--------------------------------------------------
+	[22. Quote]
+----------------------------------------------------*/
+.quote-v1 {
+    padding: 60px 0;
+    text-align: center;
+    background: url(../images/patterns/5.png) repeat;
+}
+
+.quote-v1 p {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 200;
+    padding: 0 100px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.quote-v1 p:before {
+    color: #3498db;
+    font-size: 60px;
+    content: "\201C";
+    position: absolute;
+    margin: -30px 0 0 -40px;
+    font-family: Georgia, serif;
+}
+
+.quote-v1 span {
+    color: #fff;
+    font-size: 18px;
+}
+
+@media (max-width: 768px) {
+    .quote-v1 p {
+        font-size: 18px;
+        padding: 0 50px;
+    }
+}
+
+/*Quote v2
+------------------------------------*/
+.quote-v2 {
+    text-align: center;
+    padding: 85px 10% 40px;
+}
+
+.quote-v2 p {
+    color: #555;
+    font-size: 16px;
+    font-style: italic;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.quote-v2 p:before {
+    left: 50%;
+    top: -75px;
+    font-size: 80px;
+    content: "\201C";
+    position: absolute;
+    margin-left: -25px;
+    font-family: Georgia, serif;
+}
+
+.quote-v2 span {
+    color: #555;
+    font-weight: 400;
+}

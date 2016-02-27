@@ -1,0 +1,25 @@
+
+/*--------------------------------------------------
+	[12. Thumbnail]
+----------------------------------------------------*/
+/*Thumbnail v1
+------------------------------------*/
+.thumbnails-v1 .thumbnail-img {
+    margin-bottom: 12px;
+}
+
+.thumbnails-v1 h3 {
+    margin-bottom: 5px;
+}
+
+.thumbnails-v1 h3 a {
+    color: #555;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.thumbnails-v1 .read-more {
+    color: #3498db;
+    font-size: 12px;
+    text-transform: uppercase;
+}
