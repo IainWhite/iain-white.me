@@ -7,6 +7,7 @@ var Owl2Carouselv4 = function () {
 			$('.owl2-carousel-v4').owlCarousel({
 				loop: true,
 				autoplay: true,
+                margin: 10,
 				autoplayTimeout: 10000,
 				autoplayHoverPause: true,
 				responsive: {

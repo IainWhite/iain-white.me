@@ -154,8 +154,8 @@ var App = function() {
 	return {
 		init: function() {
 			handleBootstrap();
-			handleEqualHeightColumns();
-			handleEqualHeightColumns__Images();
+            handleEqualHeightColumns();
+            handleEqualHeightColumns__Images();
 			handleFullscreen();
 			handleValignMiddle();
 			handleHeader();
@@ -182,3 +182,9 @@ var App = function() {
 		},
 	};
 }();
+
+$(document).ready(function()
+{
+    $('.iw-mobile').html('<a class="tel" href="tel:0406678337">04 06 678 337</a>');
+    $('.iw-email').html('<a class="email" href="mailto:iain@whiteinternet.com">iain@whiteinternet.com</a>');
+});

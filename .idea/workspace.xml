@@ -1,7 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca2d02c5-90da-48df-95cb-d684c4523847" name="Default" comment="" />
+    <list default="true" id="ca2d02c5-90da-48df-95cb-d684c4523847" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/1.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/11.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/13.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/14.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/15.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/16.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/17.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/18.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/19.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/2.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/21.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/25.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/29.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/3.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/30.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/7.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/8.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/9.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img1.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img10.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img11.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img12.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img2.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img3.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img4.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img5.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img6.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img7.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img8.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/bg/img9.jpg" afterPath="$PROJECT_DIR$/assets/images/bg/img9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/breadcrumbs/img1.jpg" afterPath="$PROJECT_DIR$/assets/images/breadcrumbs/img1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/breadcrumbs/img2.jpg" afterPath="$PROJECT_DIR$/assets/images/breadcrumbs/img2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/breadcrumbs/img3.jpg" afterPath="$PROJECT_DIR$/assets/images/breadcrumbs/img3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/iain-white-on-iphone.jpg" afterPath="$PROJECT_DIR$/assets/images/iain-white-on-iphone.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/flat/01.png" afterPath="$PROJECT_DIR$/assets/images/icons/flat/01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/flat/02.png" afterPath="$PROJECT_DIR$/assets/images/icons/flat/02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/flat/03.png" afterPath="$PROJECT_DIR$/assets/images/icons/flat/03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/amazon.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/amazon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/behance.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/behance.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/blogger.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/blogger.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/deviantart.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/deviantart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/dribbble.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/dribbble.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/dropbox.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/dropbox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/evernote.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/evernote.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/facebook.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/forrst.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/forrst.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/github.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/googleplus.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/googleplus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/instagram.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/instagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/jolicloud.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/jolicloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/last-fm.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/last-fm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/linkedin.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/linkedin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/picasa.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/picasa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/pintrest.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/pintrest.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/rss.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/rss.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/skype.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/skype.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/spotify.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/spotify.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/stumbleupon.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/stumbleupon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/tumblr.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/tumblr.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/twitter.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/vimeo.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/vimeo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/vk.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/vk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/wordpress.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/wordpress.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/xing.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/xing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/yahoo.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/yahoo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/social/youtube.png" afterPath="$PROJECT_DIR$/assets/images/icons/social/youtube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/icons/video-play.png" afterPath="$PROJECT_DIR$/assets/images/icons/video-play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/10.png" afterPath="$PROJECT_DIR$/assets/images/patterns/10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/11.png" afterPath="$PROJECT_DIR$/assets/images/patterns/11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/15.png" afterPath="$PROJECT_DIR$/assets/images/patterns/15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/2.png" afterPath="$PROJECT_DIR$/assets/images/patterns/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/3.png" afterPath="$PROJECT_DIR$/assets/images/patterns/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/4.png" afterPath="$PROJECT_DIR$/assets/images/patterns/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/5.png" afterPath="$PROJECT_DIR$/assets/images/patterns/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/6.png" afterPath="$PROJECT_DIR$/assets/images/patterns/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/7.png" afterPath="$PROJECT_DIR$/assets/images/patterns/7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/8.png" afterPath="$PROJECT_DIR$/assets/images/patterns/8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/9.png" afterPath="$PROJECT_DIR$/assets/images/patterns/9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/breadcrumbs.png" afterPath="$PROJECT_DIR$/assets/images/patterns/breadcrumbs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/patterns/gridtile.png" afterPath="$PROJECT_DIR$/assets/images/patterns/gridtile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img-temp/img3.jpg" afterPath="$PROJECT_DIR$/assets/img-temp/img3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img-temp/promo/img1.jpg" afterPath="$PROJECT_DIR$/assets/img-temp/promo/img1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img-temp/promo/img2.jpg" afterPath="$PROJECT_DIR$/assets/img-temp/promo/img2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img-temp/promo/img3.jpg" afterPath="$PROJECT_DIR$/assets/img-temp/promo/img3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/business.style.css" afterPath="$PROJECT_DIR$/assets/css/business.style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/one.app.js" afterPath="$PROJECT_DIR$/assets/js/one.app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js" afterPath="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="iain-white.me.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,8 +116,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47416973">
-              <caret line="670" column="23" selection-start-line="670" selection-start-column="23" selection-end-line="670" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.6693364">
+              <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -46,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/one.app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
+              <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -65,8 +156,8 @@
       <file leaf-file-name="business.style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/business.style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.375">
-              <caret line="560" column="5" selection-start-line="560" selection-start-column="5" selection-end-line="560" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="825" column="23" selection-start-line="825" selection-start-column="17" selection-end-line="825" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -95,7 +186,7 @@
       <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.875">
+            <state vertical-scroll-proportion="0.0">
               <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding />
             </state>
@@ -124,6 +215,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -137,8 +231,9 @@
         <option value="$PROJECT_DIR$/assets/css/global.css" />
         <option value="$PROJECT_DIR$/assets/js/plugins/owl-carousel.js" />
         <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v1.js" />
-        <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js" />
         <option value="$PROJECT_DIR$/assets/css/business.style.css" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js" />
+        <option value="$PROJECT_DIR$/assets/js/one.app.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -183,8 +278,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -217,84 +310,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local.iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local.iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local.iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local.iain-white.me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,13 +373,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -387,11 +406,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="660" column="54" selection-start-line="660" selection-start-column="54" selection-end-line="660" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/one.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="253" column="12" selection-start-line="253" selection-start-column="12" selection-end-line="253" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/business.style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="560" column="5" selection-start-line="560" selection-start-column="5" selection-end-line="560" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl-carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/footers/footer-v7.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4880" column="18" selection-start-line="4880" selection-start-column="18" selection-end-line="4880" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2174" column="6" selection-start-line="2174" selection-start-column="0" selection-end-line="2174" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="987" column="10" selection-start-line="985" selection-start-column="0" selection-end-line="1001" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,9 +587,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="151" column="12" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1316" column="17" selection-start-line="1316" selection-start-column="17" selection-end-line="1316" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64922047">
           <caret line="987" column="10" selection-start-line="985" selection-start-column="0" selection-end-line="1001" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.017162472">
           <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6098418">
           <caret line="169" column="3" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.458334">
           <caret line="558" column="14" selection-start-line="558" selection-start-column="14" selection-end-line="558" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
           <caret line="2475" column="4" selection-start-line="2475" selection-start-column="0" selection-end-line="2477" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,12 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1454535174000" expanded="true" signature="56365:56409" placeholder="..." />
-            <marker date="1454535174000" expanded="true" signature="58573:58619" placeholder="..." />
-            <marker date="1454535174000" expanded="true" signature="58644:58665" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.875">
           <caret line="4954" column="18" selection-start-line="4954" selection-start-column="18" selection-end-line="4954" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.875">
           <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,46 +702,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.875">
           <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl-carousel.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/one.app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.875">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -661,34 +729,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/one.app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/business.style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.375">
-          <caret line="560" column="5" selection-start-line="560" selection-start-column="5" selection-end-line="560" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="825" column="23" selection-start-line="825" selection-start-column="17" selection-end-line="825" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl2-carousel-v2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/owl-carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47416973">
-          <caret line="670" column="23" selection-start-line="670" selection-start-column="23" selection-end-line="670" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.6693364">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
           <folding />
         </state>
       </provider>

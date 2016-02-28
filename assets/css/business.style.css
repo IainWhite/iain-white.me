@@ -570,6 +570,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .one-page-header .navbar-nav > li > a span[data-hover]:before {
+	color: #3949a0;
 	top: 100%;
 	position: absolute;
 	content: attr(data-hover);
