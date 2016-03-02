@@ -188,3 +188,129 @@ $(document).ready(function()
     $('.iw-mobile').html('<a class="tel" href="tel:0406678337">04 06 678 337</a>');
     $('.iw-email').html('<a class="email" href="mailto:iain@whiteinternet.com">iain@whiteinternet.com</a>');
 });
+
+$(function() {
+	$(".fullscreen-static-image").backstretch(["assets/images/promo/img1.jpg", "assets/images/promo/img2.jpg",  "assets/images/promo/img3.jpg"],
+		{duration: 5000, fade:1500});
+});
+
+paceOptions = {
+    // Disable the 'elements' source
+    elements: false,
+
+    // Only show the progress on regular and ajax-y page navigation,
+    // not every request
+    restartOnRequestAfter: false
+}
+
+
+var Owl2Carouselv1 = function () {
+
+	return {
+
+		// Owl Carousel v1
+		initOwl2Carouselv1: function () {
+			$('.owl2-carousel-v1').owlCarousel({
+				autoplay: true,
+				autoplayTimeout: 3000,
+				autoplayHoverPause: true,
+				items: 1,
+				singleItem:true,
+				margin: 0,
+				loop: true,
+			})
+		}
+
+	};
+
+}();
+
+var Owl2Carouselv2 = function () {
+
+	return {
+
+		// Owl Carousel v2
+		initOwl2Carouselv2: function () {
+			$('.owl2-carousel-v2').owlCarousel({
+				items: 2,
+				margin: 10,
+				loop: true,
+				nav: true,
+				navText: [,],
+				responsive: {
+					300:{
+						items: 1
+					},
+					450:{
+						items: 2
+					},
+				},
+			})
+		}
+
+	};
+
+}();
+
+var Owl2Carouselv3 = function () {
+	return {
+		// Owl Carousel v3
+		initOwl2Carouselv3: function () {
+			$('.owl2-carousel-v3').owlCarousel({
+				margin: 20,
+				loop: true,
+				responsiveClass: true,
+				responsive: {
+					0:{
+						items: 2,
+					},
+					500:{
+						items: 3,
+					},
+					650:{
+						items: 4,
+					},
+					1000:{
+						items: 5,
+					},
+					1200:{
+						items: 6,
+					}
+				}
+			})
+		}
+	};
+}();
+
+var Owl2Carouselv4 = function () {
+
+	return {
+
+		// Owl Carousel v4
+		initOwl2Carouselv4: function () {
+			$('.owl2-carousel-v4').owlCarousel({
+				loop: true,
+				autoplay: true,
+				margin: 10,
+				autoplayTimeout: 10000,
+				autoplayHoverPause: true,
+				responsive: {
+					0:{
+						items: 1,
+					},
+					600:{
+						items: 2,
+					},
+					1000:{
+						items: 3,
+					},
+					1200:{
+						items: 4,
+					}
+				}
+			})
+		}
+
+	};
+
+}();
