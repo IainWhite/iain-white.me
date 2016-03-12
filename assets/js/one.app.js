@@ -65,7 +65,6 @@ var App = function() {
 					heights.push($(this).height()); // Write column's heights to the array
 				});
 				$('.equal-height-column-v2', this).height(Math.max.apply(Math, heights)); // Find and set max
-
 				$('.equal-height-column-v2', this).each(function() {
 					if ($(this).hasAttr('data-image-src')) {
 						$(this).css('background', 'url('+$(this).attr('data-image-src')+') no-repeat scroll 50% 0 / cover');
@@ -81,6 +80,11 @@ var App = function() {
 		$(window).resize(function() {
 			EqualHeightColumns__Images();
 		});
+
+        // IW New
+        $(window).load(function() {
+            EqualHeightColumns__Images();
+        });
 	}
 
 	// Full Screen
